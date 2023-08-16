@@ -1,0 +1,42 @@
+h1
+{
+    font-size: 60px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font: bold;
+}
+
+img
+{
+    width: 600px;
+    height: auto;
+}
+
+.subheadline
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
+
+.desc
+{
+    color: rgb(51, 51, 255);
+}
+
+.steps
+{
+    color: rgb(255, 51, 51);
+}
+
+.ingre{
+    color: rgb(7, 202, 33);
+}
+
+p{
+    font-size: 24px;
+}
+
+li
+{
+    font-size: 20px;
+}
